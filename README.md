@@ -1,7 +1,7 @@
 # EJerciciosComponentes
 
 ## Solucion del cors 
-Con configurar el [text](proxy.conf.json) y modificar le angular.json ([text](angular.json)) lineas 59,60 se soluciona
+Con configurar el [proxy.conf.json](proxy.conf.json) y modificar le angular.json ([angular.json](angular.json)) lineas 59,60 se soluciona
 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.6.
