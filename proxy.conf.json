@@ -1,0 +1,11 @@
+{
+    "/api": {
+      "target": "https://coffee.alexflipnote.dev",
+      "secure": true,
+      "changeOrigin": true,
+      "pathRewrite": {
+        "^/api": ""
+      }
+    }
+  }
+  

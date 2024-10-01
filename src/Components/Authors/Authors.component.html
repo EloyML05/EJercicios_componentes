@@ -1,0 +1,10 @@
+  <h1>Listado de autores</h1>
+  <table class="table table-border">
+    <tr class="border" *ngFor="let author of authors">
+      <th class="border">{{ author.name }}</th>
+      <td class="border" >{{ author.username }}</td>
+      <td class="border">{{ author.email }}</td>
+      <td class="border">{{ author.phone }}</td>
+      <td class="border">{{ author.website }}</td>
+    </tr>
+  </table>
