@@ -11,7 +11,6 @@ import { AuthorsComponent } from '../Authors/Authors.component';
   imports: [CoffeComponent,AuthorsComponent,RamdomNComponent],
 })
 export class NumberRamdomComponent implements OnInit {
-palabra:String="";
   constructor() { }
 
   ngOnInit() {

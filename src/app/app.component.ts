@@ -14,7 +14,4 @@ export class AppComponent {
 
   constructor(private router: Router) {}
 
-  navigate() {
-      this.router.navigate(['/string-Formater', this.palabra]);
-  }
 }
